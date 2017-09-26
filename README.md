@@ -1,7 +1,5 @@
 # exercise-repo
-Repo made for exercise
-
-This will make a conflict!
-
-We resolved the conflict!
+This project will contain...
+Repository made fot exercises.
+Edited again in master branch..
 
